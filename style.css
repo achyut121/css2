@@ -1,0 +1,66 @@
+body {
+    border: 5px groove rgb(144, 47, 255);
+    background-image:url(./image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.heading {
+  font-style: italic;
+  text-align: center; 
+  border: 5px solid red; 
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin: 20px;
+  height: 100px;
+  width: 300px;
+  border-radius: 20px;
+}
+.heading2 {
+    font-style: italic;
+    text-align: center; 
+    border: 5px solid red; 
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 50px;
+    width: 350px;
+    border-radius: 20px;  
+}
+.heading3 {
+    border: 10px solid gray;
+    text-decoration: underline;
+    background-color: aqua;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.form {
+    display:inline-block;
+    border: 5px dotted red;
+    color:coral;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 200px;
+}
+
+.menu {
+    display: table-cell;
+    background-color: aqua;
+    border: 2px solid green;
+    border-radius: 50px;
+    text-align: center;
+    padding: 20px;
+    height: 100px;
+    width: 300px;
+}
+
+.head3 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
